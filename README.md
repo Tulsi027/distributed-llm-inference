@@ -8,7 +8,7 @@ It is designed to simulate **real-world distributed systems**, where limited har
 
 ## 🧠 Architecture Overview
 
-![Distributed LLM Architecture](distributed_llm_architecture.png)
+![Distributed LLM Architecture](distributed_LLM_Architecture.png)
 
 ---
 
